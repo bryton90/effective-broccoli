@@ -33,7 +33,7 @@
 #### Display Articles
 
 - select articles
-- iterate over, return article.post for each article
+- literate over, return article.post for each article
 
 #### Format Date
 
